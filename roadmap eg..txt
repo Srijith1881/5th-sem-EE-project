@@ -1,0 +1,27 @@
+pattern
+array
+string
+list
+tuple
+dictionary
+collection
+oops using python
+db connectivity ddl, dml,cursors , 
+connecting db and program
+developing console based application
+upload in GitHub
+
+Data structure liner and nonlinear
+bit manipulation
+back tracking
+dynamic programming
+supervised , unsupervised learing
+ml algorithms
+numpy , pandas , scikit learn , use libraries
+data preprocessing techniques , dimentionality reduction 
+statistics , mathematic foundation , visualization , EDA ,
+deeplearning , neural networks
+performance metrics
+parameter tuning
+concept perspective-network fundamentals , os , cloud , how to deploy app in cloud, api , rest api , how to create and call api , integration of api.
+#analytics tools if no programming 
